@@ -1,11 +1,13 @@
 #header-img-modal .bg-wrap {
-    background-color: #4A4A4A;
 }
 
+
 #header-img-modal .bg {
+	background-size: cover;
     background-image: url('../images/bg-69.jpg');
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: cover;
-    opacity: 0.5;
+    opacity: 0.69;
+}#header-text-img-2 .bg-wrap {
+    background-color: #E2EBF2;
 }

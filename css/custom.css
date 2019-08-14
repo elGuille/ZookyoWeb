@@ -12,7 +12,7 @@
 	color: #ffffff;
 }
 .light-page {
-	background-color: #fff;
+	background-color: #ffffff;
 }
 .dark-page {
 	background-color: #232122;
@@ -28,7 +28,7 @@ section.dark, footer.dark, header.dark {
 	border-color: #888888;
 }
 .dark .bg-wrap.light, .light .bg-wrap, .dark .light .bg-wrap, .bg-wrap.light, .dark .bg-default.light, .light .bg-default, .dark .light .bg-default, .bg-default.light {
-	background-color: #fff;
+	background-color: #ffffff;
 }
 .light .bg-wrap.dark, .dark .bg-wrap, .light .dark .bg-wrap, .bg-wrap.dark, .light .bg-default.dark, .dark .bg-default, .light .dark .bg-default, .bg-default.dark {
 	background-color: #232122;
