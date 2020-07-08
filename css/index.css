@@ -1,13 +1,9 @@
-#header-img-modal .bg-wrap {
-}
-
-
-#header-img-modal .bg {
-	background-size: cover;
-    background-image: url('../images/bg-69.jpg');
+#header-text-4 .bg {
+    background-image: url('../images/bg-12.jpg');
     background-repeat: no-repeat;
-    background-position: center center;
-    opacity: 0.69;
-}#header-text-img-2 .bg-wrap {
-    background-color: #E2EBF2;
+    background-position: center top;
+    background-size: cover;
+    opacity:1;
+}#footer-social-text .bg-wrap {
+    background-color: #F4F5F6;
 }
